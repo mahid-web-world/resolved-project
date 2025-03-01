@@ -8,7 +8,6 @@ import { orderUtils } from './order-utils'
 import QueryBuilder from '../../builder/querybuilder'
 import AppError from '../../utils/AppError'
 import { IUser } from '../auth/auth.interface'
-import { TProductData } from './order.interface'
 import { ObjectId } from 'mongodb'
 
 // create this service for create a order
